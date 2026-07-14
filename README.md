@@ -45,5 +45,6 @@ To run this project locally, follow these steps:
 
 
 
-🔒 Repository Note
+### 🔒 Repository Note
+
 This is a public showcase repository for EazyCart. The source code is kept in a private repository for security and intellectual property protection. If you are an employer or evaluator and would like access to the complete codebase, please contact me directly
