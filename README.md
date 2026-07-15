@@ -31,7 +31,7 @@ This core system architecture is divided into clear, modular components:
 To run this project locally, follow these steps:
 
 ### Prerequisites
-*   A local web server environment (e.g., **XAMPP**)
+*   A local web server environment (**XAMPP**)
 *   PHP (version 7.4 or higher recommended)
 *   MySQL Database
 
