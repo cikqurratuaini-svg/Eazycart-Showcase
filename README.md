@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 ### Prerequisites
 *   A local web server environment (**XAMPP**)
-*   PHP (version 7.4 or higher recommended)
+*   PHP (version 7.4 or higher)
 *   MySQL Database
 
 ### Installation
