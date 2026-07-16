@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 ### Installation
 
-1. Move the project to your server directory (`D:\xampp\htdocs\eazycart1`).
+1. Move the project to your server directory (`Kali GNU/Linuux /opt/lampp/htdocs/eazycart1`).
 2. Open phpMyAdmin (`http://localhost/phpmyadmin`) and create a database named `eazycart1`.
 3. Import your product and user SQL tables.
 4. Start Apache and MySQL in your XAMPP Control Panel.
