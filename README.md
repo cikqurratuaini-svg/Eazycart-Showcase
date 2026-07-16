@@ -25,6 +25,7 @@ This core system architecture is divided into clear, modular components:
 *   **Database:** MySQL
 *   **Platform:** Microsoft VS Code
 *   **Environment:** Linux VM
+*   **Tool:** Wapiti
 
 ---
 
@@ -37,6 +38,7 @@ To run this project locally, follow these steps:
 *   PHP (version 7.4 or higher)
 *   MySQL Database
 *   ngrok (secure tunnel access)
+*   Wapiti (web app scanner)
 
 ### Installation
 
