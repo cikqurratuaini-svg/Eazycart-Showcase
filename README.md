@@ -39,12 +39,11 @@ To run this project locally, follow these steps:
 
 ### Installation
 
-1. Move the project to your server directory (`D:\xampp\htdocs\project-name`).
-2. Open phpMyAdmin (`http://localhost/phpmyadmin`) and create your database.
+1. Move the project to your server directory (`D:\xampp\htdocs\eazycart1`).
+2. Open phpMyAdmin (`http://localhost/phpmyadmin`) and create a database named `eazycart1`.
 3. Import your product and user SQL tables.
 4. Start Apache and MySQL in your XAMPP Control Panel.
-5. Navigate to `http://localhost/project-name/file.php` in your browser.
-
+5. Navigate to `https://playgroup-blubber-crown.ngrok-free.dev/eazycart1/signin.php` in your browser.
 
 
 ### 🔒 Repository Note
