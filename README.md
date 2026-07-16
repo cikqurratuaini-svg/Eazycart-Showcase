@@ -37,7 +37,6 @@ To run this project locally, follow these steps:
 *   PHP (version 7.4 or higher)
 *   MySQL Database
 *   ngrok (secure tunnel access)
-*   Microsoft VS Code
 
 ### Installation
 
