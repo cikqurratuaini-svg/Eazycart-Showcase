@@ -24,7 +24,7 @@ This core system architecture is divided into clear, modular components:
 *   **Backend:** PHP
 *   **Database:** MySQL
 *   **Platform:** Microsoft VS Code
-*   **Environment:** Linux VM
+*   **Environment:** Linux VM @ Windows
 *   **Tool:** Wapiti
 
 ---
