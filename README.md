@@ -34,6 +34,8 @@ To run this project locally, follow these steps:
 *   A local web server environment (**XAMPP**)
 *   PHP (version 7.4 or higher)
 *   MySQL Database
+*   ngrok (secure tunnel access)
+*   Microsoft VS Code
 
 ### Installation
 
