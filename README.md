@@ -23,6 +23,8 @@ This core system architecture is divided into clear, modular components:
 *   **Frontend:** HTML5, CSS3, JavaScript
 *   **Backend:** PHP
 *   **Database:** MySQL
+*   **Platform:** Microsoft VS Code
+*   **Environment:** Linux VM
 
 ---
 
